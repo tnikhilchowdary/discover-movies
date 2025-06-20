@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/discover-movies/static/css/main.a0051807.css",
+    "main.js": "/discover-movies/static/js/main.81a20348.js",
+    "static/media/hero-bg.png": "/discover-movies/static/media/hero-bg.f5b90f0352e76ed930df.png",
+    "index.html": "/discover-movies/index.html",
+    "main.a0051807.css.map": "/discover-movies/static/css/main.a0051807.css.map",
+    "main.81a20348.js.map": "/discover-movies/static/js/main.81a20348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0051807.css",
+    "static/js/main.81a20348.js"
+  ]
+}
