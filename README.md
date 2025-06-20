@@ -2,7 +2,7 @@
 
 Discover Movies is a responsive React application that allows users to explore trending and popular movies using The Movie Database (TMDb) API.
 
-![Screenshot](./src/public/screenshot.png)
+![Screenshot](./public/screenshot.png)
 
 ---
 
